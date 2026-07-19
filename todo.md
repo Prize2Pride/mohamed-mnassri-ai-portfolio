@@ -1,0 +1,23 @@
+# Project TODO
+
+- [x] Create and connect a public GitHub repository for the Mohamed Mnassri portfolio project.
+- [x] Establish a dark luxury visual system with refined gold and teal accents, responsive typography, and motion that respects reduced-motion preferences.
+- [x] Create a custom public-site navigation with exactly three language choices: German, English, and Arabic.
+- [x] Build the hero section naming Mohamed Mnassri exactly and presenting his nursing trainee candidacy, multilingual learning, and professional motivation.
+- [x] Build an animated career timeline that explicitly covers the 2013–2019 internship period, medical and physiotherapy exposure, German B2 progress, and Pflegefachmann training aspiration.
+- [x] Build a skills and languages section that states German at B2, Arabic as native, and includes empathy, patient care, reliability, and adaptability.
+- [x] Build a motivation and story section based on the supplied cover letter, including medical-practice and physiotherapy-practice insights.
+- [x] Generate and publish multiple Mohamed-specific professional avatar variations for healthcare, language-learning, and formal applicant contexts.
+- [x] Implement on-demand, rate-limited AI portrait generation for healthcare, formal, and casual avatar styles for portfolio visitors or the owner.
+- [x] Implement a server-side, multilingual AI persona that is grounded in Mohamed Mnassri's supplied CV, cover letter, skills, and goals.
+- [x] Implement a full-featured AI chat interface that retains and renders a local conversation history of at least 500 messages.
+- [x] Add contact and call-to-action sections that invite relevant employers to begin a conversation with Mohamed's AI assistant.
+- [x] Add accessible loading, empty, error, keyboard, and mobile interaction states for all interactive features.
+- [x] Add automated tests for the AI persona and core portfolio data handling, then run the project test and type-check suites.
+- [x] Perform desktop and mobile visual verification, address discovered issues, and confirm no runtime or console errors remain.
+- [ ] Commit the completed project, push it to the public GitHub repository, and create the required final checkpoint.
+- [x] Add global reduced-motion handling to all portfolio entrance and scrolling animations.
+- [x] Add explicit reveal animation behavior to the career timeline entries.
+- [x] Strengthen accessibility and inline status feedback for the mobile navigation and avatar studio.
+- [x] Make in-page navigation and global scroll behavior respect reduced-motion preferences.
+- [x] Defer the rich AI chat bundle to improve initial portfolio load performance.
